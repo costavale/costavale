@@ -1,6 +1,6 @@
 ### About me 👋
 
-My name is Valentina Costa and I am a researcher at the Stazione Zoologica Anton Dohrn in Italy.
+My name is Valentina Costa and I am a researcher in marine ecology at the Stazione Zoologica Anton Dohrn in Italy.
 My activity is focused on the study of the ecology of seagrass marine ecosystems with the main purpose of answering ecological questions using an integrated approach based on three main keywords: map, protect and restore.
 To map and protect any ecosystem, knowledge represents the starting point, and how different environmental variables can affect the ecosystem itself is also necessary. 
 More recently, my interest has been more focused on the keyword restore. One approach to ecosystem restoration is the transplanting of organisms from non-impacted areas to areas that need to be reforested. For this reason, part of my research activity is focused on the evaluation of transplantation techniques used for marine seagrass restoration activities.
